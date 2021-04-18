@@ -12,7 +12,7 @@
     </parent>
     <packaging>jar</packaging>
     <properties>
-        <reportVersion>6.0.0</reportVersion>
+        <reportVersion>6.11.0</reportVersion>
     </properties>
     <dependencies>
         <dependency>
